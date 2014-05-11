@@ -1,0 +1,1 @@
+This scraper collects the current weather data of Bremen and places nearby from the website of Radio Bremen.
